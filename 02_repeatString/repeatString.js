@@ -8,5 +8,8 @@ const repeatString = function (str, num) {
   return concatString;
 };
 
+// Alternatively an for loop could be used adding
+// an instance of the word "num" number of times
+
 // Do not edit below this line
 module.exports = repeatString;
